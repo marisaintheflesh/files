@@ -1,0 +1,7 @@
+! Fk em.
+! Up-to-date as of 2025-11(November)-24
+
+https://www.thepeterboroughexaminer.com/tncms/access/rules/
+https://www.thepeterboroughexaminer.com/tncms/access/user/
+
+thepeterboroughexaminer.com##.subscriber-only:style(display: inline-block !important)

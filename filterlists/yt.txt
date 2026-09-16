@@ -1,0 +1,13 @@
+youtube.com###comments
+
+! Removes all annotations in videos
+||youtube.com/annotations_invideo?$object-subrequest
+! HTML5 version
+youtube.com##.video-annotations
+
+youtube.com###actions
+
+youtube.com###comment-teaser
+youtube.com###sponsor-button
+youtube.com###purchase-button
+youtube.com###ticket-shelf
